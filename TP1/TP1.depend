@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1599951327 source:e:\programacion\1 er cuatimestre programacion utn\laboratorio-programacion\tps\tp1\inputcalculadora.c
+	"inputCalculadora.h"
+
+1599951318 e:\programacion\1 er cuatimestre programacion utn\laboratorio-programacion\tps\tp1\inputcalculadora.h
+	<stdio.h>
+
+1599951186 source:e:\programacion\1 er cuatimestre programacion utn\laboratorio-programacion\tps\tp1\main.c
+	<stdlib.h>
+	<conio.h>
+	"inputCalculadora.h"
+
